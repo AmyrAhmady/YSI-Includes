@@ -20,3 +20,13 @@ Simply, you can download this include.
 ```pawn
 #include <YSI_Extra\y_tho>
 ```
+
+## Usage
+
+Since *y_tho* brings totally new syntax to your script, it can easily "destroy" your project - so, it is not enabled by default even if you include it.
+
+- If you want to use *y_tho*, enable it in your project:
+
+```pawn
+ #define _ACTIVATE_y_tho 1
+ ```
