@@ -9,3 +9,14 @@
 Actually, I am serious -  Y_Less made a include which brings really weird syntax in pawn coding!
 
 - Read more here: [Y-Less and y_tho](https://github.com/Y-Less/y_tho)
+
+## Installation
+
+Simply, you can download this include.
+
+- When you download it, install it to your project.
+- Include it and start using the library!
+
+```pawn
+#include <YSI_Extra\y_tho>
+```
