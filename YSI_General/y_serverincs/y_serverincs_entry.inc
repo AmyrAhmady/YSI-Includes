@@ -10,6 +10,7 @@
 #tryinclude <sscanf2>
 #tryinclude <streamer>
 #tryinclude <MapAndreas>
+#tryinclude <progress2>
 
 // YSI_Coding:
 
