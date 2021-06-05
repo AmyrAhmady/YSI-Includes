@@ -28,6 +28,8 @@
 #include <streamer>
 #include <sscanf2>
 
+#include <fixes>
+
 #include <mapandreas>
 #tryinclude <MapAndreas>
 
@@ -49,6 +51,21 @@ What a mess - this could be **better**, right?
 - After using *y_serverincs* library:
 
 ```pawn
+#include <YSI_General\y_serverincs>
+
+(...)
+```
+
+## SA-MP fixes
+*y_serverincs* also pulls fixes.inc library, so don't worry - fixes are here too.
+- But, since fixes are sometimes able to mess with some stuff it's disabled by default.
+
+To enable fixes.inc including, add this code above your *y_serverincs* include:
+```pawn
+// Added fixes as dependency:
+#define _ACTIVATE_fixes 1
+
+// y_serverincs code import:
 #include <YSI_General\y_serverincs>
 
 (...)
