@@ -18,7 +18,7 @@ Although YSI provides a lot of libraries, they aren't included unless you includ
 
 ## General includes
 
-- This part of the library contains, also - optional, include files. These are mostly used for common problems. Like including libraries and stuff.
+This part of the library contains, also - optional, include files. These are mostly used for common problems. Like including libraries and stuff.
 
 * [y_serverincs](YSI_General/y_serverincs.md)
 
