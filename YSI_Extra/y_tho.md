@@ -8,4 +8,4 @@
 
 Actually, I am serious -  Y_Less made a include which brings really weird syntax in pawn coding!
 
-- Read more here: [Y-Less and y_tho](github.com/Y-Less/y_tho)
+- Read more here: [Y-Less and y_tho](https://github.com/Y-Less/y_tho)
