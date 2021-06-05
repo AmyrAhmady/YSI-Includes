@@ -12,6 +12,10 @@
 #tryinclude <MapAndreas>
 #tryinclude <progress2>
 
+#if defined _ACTIVATE_fixes && _ACTIVATE_fixes 1
+#tryinclude <fixes>
+#endif
+
 // YSI_Coding:
 
 #tryinclude <YSI_Coding\y_async>
