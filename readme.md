@@ -64,6 +64,7 @@ Optional features.
 * [y_extra](YSI_Extra/y_extra.md)
 * [y_files](YSI_Extra/y_files.md)
 * [y_streamer_plugin](YSI_Extra/y_streamer_plugin.md)
+* [y_tho](https://github.com/DentisT-SAMP/YSI-Includes/blob/5.x/YSI_Extra/y_tho.md)
 
 ### Game
 
