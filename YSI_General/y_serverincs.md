@@ -17,3 +17,21 @@
 ### Troubleshooting
 
 - If you found a problem, contact Y-Less on Discord.
+
+### Examples
+
+- Before:
+
+```pawn
+#include <YSI_Storage\y_ini>
+#include <YSI_Coding\y_hooks>
+#include <YSI_Data\y_foreach\y_foreach_entry>
+```
+
+- After using *y_serverincs* library:
+
+```pawn
+#include <YSI_General\y_serverincs>
+
+(...)
+```
