@@ -28,6 +28,10 @@
 #include <streamer>
 #include <sscanf2>
 
+#include <mapandreas>
+#tryinclude <MapAndreas>
+
+#include <progress2>
 #tryinclude <sscanf>
 
 #include <YSI_Storage\y_ini>
