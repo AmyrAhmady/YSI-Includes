@@ -3,6 +3,8 @@
 #endif
 #define _INC_y_tho
 
+#if defined _ACTIVATE_y_tho && _ACTIVATE_y_tho == 1
+
 #pragma library YSI
 
 #define public %0 \
@@ -99,3 +101,5 @@ stock bool:DONE_FALSE = false;
 //   done
 // 
 #define until[%0]%8\10;%9 while(!(%0))%8
+
+#endif
