@@ -4,6 +4,13 @@
 
 #define _INC_y_serverincs
 
+// Includes mostly used in scripts:
+
+#tryinclude <a_samp>
+#tryinclude <sscanf2>
+#tryinclude <streamer>
+#tryinclude <MapAndreas>
+
 // YSI_Coding:
 
 #tryinclude <YSI_Coding\y_async>
